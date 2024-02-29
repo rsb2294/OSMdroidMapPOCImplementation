@@ -1,0 +1,17 @@
+
+Pkotlin:S1172Ú"0Remove this unused function parameter "context".(ÿßº›8š×¦¦ß1
+Ckotlin:S125Ò"Remove this commented out code.(‹šâşÿÿÿÿ8Ÿ×¦¦ß1
+>kotlin:S125×"Remove this commented out code.(ÔºıŒ8Ÿ×¦¦ß1
+Akotlin:S6310›"Avoid hardcoded dispatchers.(äÕ”øÿÿÿÿ8–ö¼¦ß1
+Akotlin:S6310"Avoid hardcoded dispatchers.(¯ğõ©úÿÿÿÿ8–ö¼¦ß1
+ykotlin:S6306›"TUsing "GlobalScope" here leads to the breaking of structured concurrency principles.(äÕ”øÿÿÿÿ8­ö¼¦ß1
+Jkotlin:S1481¥"*Remove this unused "prefs" local variable.(‡™ãÙ8»×¦¦ß1
+Jkotlin:S1481°"*Remove this unused "prefs" local variable.(‡™ãÙ8»×¦¦ß1
+Bkotlin:S1874"#Deprecated code should not be used.(Û’€ 8Á×¦¦ß1
+Ckotlin:S1874İ"#Deprecated code should not be used.(¦™«£8Èª¦ß1
+Hkotlin:S1874"#Deprecated code should not be used.(«ë—áúÿÿÿÿ8İÆ¼¦ß1
+Gkotlin:S1874
+"#Deprecated code should not be used.(ÛÔ¥üÿÿÿÿ8ƒ ¦ß1
+Bkotlin:S1874*"#Deprecated code should not be used.(²ÒĞ 8Â×¦¦ß1
+Bkotlin:S1874*"#Deprecated code should not be used.(²ÒĞ 8Â×¦¦ß1
+Skotlin:S1066æ".Merge this "if" statement with the nested one.(­ªÍòûÿÿÿÿ8Æ×¦¦ß1
